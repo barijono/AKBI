@@ -1,0 +1,97 @@
+# ASPI Portal Registration Information Template
+
+## Organization Details
+
+Organization Name: Bank Indonesia
+
+Organization Type:
+[ ] Financial Institution - Government
+[ ] Financial Institution - Private
+[ ] Fintech Company
+[ ] Technology Service Provider
+[ ] Other: ___________
+
+Business Registration Number: ___________
+
+Organization Address:
+Street: ___________
+City: ___________
+Province: ___________
+Postal Code: ___________
+
+Organization Phone: ___________
+Organization Website: https://www.bi.go.id
+
+
+## Contact Person (Primary)
+
+Full Name: ___________
+Position/Title: Security Consultant / Penetration Tester
+Department: Security Assessment Division
+
+Email: ___________@bi.go.id
+Phone: +62-___________
+Mobile: +62-___________
+
+
+## Contact Person (Secondary) - Optional
+
+Full Name: ___________
+Position/Title: ___________
+Email: ___________@bi.go.id
+Phone: +62-___________
+
+
+## Purpose of API Usage
+
+Primary Purpose:
+[X] Security Testing / Penetration Testing
+[ ] Application Development
+[ ] Research & Development
+[ ] Production Integration
+
+Description:
+Authorized security assessment and penetration testing of SNAP API
+to evaluate security controls, identify vulnerabilities, and ensure
+compliance with Bank Indonesia security standards.
+
+Expected Monthly API Calls: < 10,000 (testing only)
+
+Test Environment:
+[X] Sandbox
+[ ] Staging
+[ ] Production (requires special approval)
+
+
+## Technical Details
+
+Primary Developer/Tester: ___________
+Technical Contact Email: ___________
+Callback URL (for OAuth): https://localhost:8080/oauth/callback
+
+
+## Supporting Documents (to prepare)
+
+1. [ ] Bank Indonesia official email address
+2. [ ] Authorization letter from supervisor
+3. [ ] Organizational structure document (if requested)
+4. [ ] Valid identification
+
+
+## Notes
+
+- Use your official Bank Indonesia email for registration
+- You will receive verification email - check spam folder if not received
+- Keep registration confirmation email for reference
+- Portal account username will be your email address
+
+
+## Prepared By
+
+Name: ___________
+Date: 2025-12-09
+Verified by: ___________
+
+---
+
+SAVE THIS FILE SECURELY - Contains organizational information

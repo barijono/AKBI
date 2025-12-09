@@ -1,0 +1,239 @@
+To: security@aspi-indonesia.or.id
+CC: support@aspi-indonesia.or.id
+Subject: Request for Penetration Testing Authorization - Bank Indonesia Security Assessment
+
+[CUSTOMIZE ALL FIELDS MARKED WITH _____ BEFORE SENDING]
+
+---
+
+Dear ASPI Security Team,
+
+I am writing to request formal authorization to conduct penetration testing
+on the SNAP (Standard National API Payment) API as part of Bank Indonesia's
+security assessment and regulatory oversight program.
+
+
+## REQUESTING ORGANIZATION
+
+Organization: Bank Indonesia
+Department: Security Assessment Division
+Address: Jl. M.H. Thamrin No.2, Jakarta 10350, Indonesia
+Official Website: https://www.bi.go.id
+
+
+## CONTACT INFORMATION
+
+Primary Contact:
+Name: [Your Full Name]
+Position: [Your Title - e.g., Security Consultant, Penetration Tester]
+Email: [your-email]@bi.go.id
+Phone: +62-[your-phone]
+Mobile: +62-[your-mobile]
+
+Secondary Contact:
+Name: [Backup contact name]
+Position: [Backup contact title]
+Email: [backup-email]@bi.go.id
+Phone: +62-[backup-phone]
+
+
+## ASPI PORTAL CREDENTIALS
+
+Partner ID: [Your Partner ID - e.g., PARTNER-BI-12345]
+Application Name: BI-Security-Assessment-SNAP-2025
+Application Status: Approved (as of [date])
+
+
+## TESTING DETAILS
+
+Test Scope:
+- Balance Inquiry API (POST /1.0/balance-inquiry)
+- Authentication mechanisms (OAuth 2.0, HMAC signatures)
+- Authorization controls (IDOR, privilege escalation)
+- Input validation (injection vulnerabilities)
+- Rate limiting and abuse prevention
+
+Test Environment:
+- Sandbox Only (https://sandbox.aspi-indonesia.or.id)
+- Production testing NOT included at this time
+
+Test Methodology:
+- OWASP API Security Top 10 framework
+- Manual security testing
+- Automated vulnerability scanning
+- Business logic testing
+- Authentication and session management testing
+
+Test Window (Proposed):
+- Start Date: December 15, 2025
+- End Date: December 30, 2025
+- Duration: 2 weeks
+- Testing Hours: Business hours (09:00-17:00 WIB)
+
+
+## SOURCE IP ADDRESSES
+
+Testing will be conducted from the following IP addresses:
+- Primary IP: [your-ip-address-1]
+- Secondary IP: [your-ip-address-2]
+- Network: Bank Indonesia Internal Network
+- Location: Bank Indonesia Office, Jakarta
+
+
+## TESTING TOOLS & FRAMEWORK
+
+We will use:
+- Custom penetration testing framework (OWASP-based)
+- Burp Suite Professional (for traffic inspection)
+- Standard HTTP testing tools
+- No destructive or DoS testing tools
+
+Rate Limiting:
+- Maximum 100 requests per minute
+- Configurable delays between requests
+- Automatic backoff on rate limit detection
+
+
+## AUTHORIZATION & LEGAL
+
+Authorization Letter Reference: BI/SEC/2025/[number]
+Authorized By: [Your Supervisor Name], [Title]
+Authorization Date: [Date]
+
+This security testing is conducted under:
+- Bank Indonesia regulatory oversight authority
+- PBI (Peraturan Bank Indonesia) regulations
+- Internal security assessment mandate
+
+
+## COMMITMENTS
+
+We commit to:
+
+1. Responsible Testing
+   - Test only approved APIs in sandbox environment
+   - Respect rate limits and system capacity
+   - Use only authorized testing accounts
+   - No DoS or destructive testing
+
+2. Immediate Reporting
+   - Report critical vulnerabilities within 24 hours
+   - Coordinate disclosure timeline with ASPI
+   - Provide detailed technical findings
+   - Not disclose findings publicly without authorization
+
+3. Documentation
+   - Maintain detailed test logs
+   - Document all findings with evidence
+   - Provide comprehensive security report
+   - Include remediation recommendations
+
+4. Coordination
+   - Notify ASPI before starting tests
+   - Coordinate any scope changes
+   - Available for clarification during testing
+   - Stop testing immediately if issues arise
+
+
+## EMERGENCY CONTACTS
+
+Bank Indonesia Emergency Contacts:
+- Primary: [Your Name] - [Phone] - [Email]
+- Secondary: [Backup Name] - [Phone] - [Email]
+- Security Team Lead: [Lead Name] - [Phone]
+
+Please provide ASPI emergency contact information for critical findings.
+
+
+## DELIVERABLES
+
+Upon completion, we will provide:
+
+1. Executive Summary
+   - High-level findings for management
+   - Risk assessment and prioritization
+   - Strategic recommendations
+
+2. Technical Report
+   - Detailed vulnerability descriptions
+   - Steps to reproduce each finding
+   - Evidence (request/response logs, screenshots)
+   - OWASP mapping and severity ratings
+
+3. Remediation Guide
+   - Specific fix recommendations
+   - Code examples where applicable
+   - Best practice guidance
+   - Compliance considerations
+
+4. Retest Report
+   - Verification of fixes after remediation
+   - Residual risk assessment
+
+
+## ATTACHED DOCUMENTS
+
+Please find attached:
+
+1. Bank Indonesia authorization letter (official letterhead)
+2. Security testing scope document
+3. Test plan overview (methodology, timeline, tools)
+4. NDA (if required by ASPI)
+
+
+## REQUESTED CONFIRMATION
+
+Please confirm:
+
+1. Authorization approval for sandbox penetration testing
+2. Approved test window dates (Dec 15-30, 2025)
+3. Any specific restrictions or guidelines we should follow
+4. ASPI emergency contact information
+5. Preferred communication channel for critical findings
+6. Expected timeline for authorization approval
+
+
+## ADDITIONAL INFORMATION
+
+This security assessment aligns with Bank Indonesia's mission to ensure:
+- Financial system stability
+- Consumer protection in digital payments
+- Compliance with security standards
+- Robust payment infrastructure
+
+We appreciate ASPI's cooperation in this regulatory oversight activity.
+
+
+We are available for any clarification or additional information you may need.
+
+Thank you for your consideration and cooperation.
+
+
+Best regards,
+
+[Your Full Name]
+[Your Title]
+Security Assessment Division
+Bank Indonesia
+Phone: +62-[your-phone]
+Email: [your-email]@bi.go.id
+
+---
+
+IMPORTANT INSTRUCTIONS BEFORE SENDING:
+
+1. Fill in ALL fields marked with [brackets]
+2. Attach the required documents:
+   - Authorization letter on BI letterhead
+   - Test plan (1-2 pages)
+   - Scope document
+3. Get approval from your supervisor before sending
+4. Send from your official BI email address
+5. Keep a copy of the sent email for records
+6. Follow up if no response within 3 business days
+
+SEND TO:
+To: security@aspi-indonesia.or.id
+CC: support@aspi-indonesia.or.id
+
+SUBJECT: Request for Penetration Testing Authorization - Bank Indonesia Security Assessment
